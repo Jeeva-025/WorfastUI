@@ -46,13 +46,13 @@ export default function Home() {
       photo:"https://dz1x1c630cl14.cloudfront.net/webassets/images/home/feedback-1.webp",
       name:"Sanjay Enishetty",
       destination:"CEO, Naturals",
-      feedback:"“You are building an amazing product which got the potential and realistic features which most of the startups and SME&apos;s like us need, importantly at a affordable cost. We are very happy on the decision we have taken to move from Slack to Workfast.ai”"
+      feedback:"\"You are building an amazing product which got the potential and realistic features which most of the startups and SME\'s like us need, importantly at a affordable cost. We are very happy on the decision we have taken to move from Slack to Workfast.ai\""
     }, 
     {
       photo:"https://dz1x1c630cl14.cloudfront.net/webassets/images/home/feedback-2.webp",
       name:"Akhila Rajeshwar",
       destination:"Executive Director, TiE Chennai",
-      feedback:"“I’m amazed at this app, it seems like it was made specifically for our needs. We’ve been waiting for this solution for past 2 years so we are extremely happy. Congratulations to the entire team.”"
+      feedback:"\"I\'m amazed at this app, it seems like it was made specifically for our needs. We\'ve been waiting for this solution for past 2 years so we are extremely happy. Congratulations to the entire team.\""
     }
   ]
 
@@ -120,7 +120,7 @@ export default function Home() {
 
     Chat:[{
       icon:LuMessageCircleMore,
-      title:"DM’s",
+      title:"DM\'s",
       para:"DM your colleagues"
     },{
       icon:FaUsers,
@@ -175,7 +175,7 @@ export default function Home() {
 
       <div className="mt-10 flex flex-col space-y-4 md:space-y-10">
         <h1 className="text-center text-4xl font-bold mx-2 tiny:mx-3 sm:mx-6 md:mx-16 lg:mx-20">Workfast helps you to get the most valuable <br/>
-        thing in the world, "Your Time".</h1>
+        thing in the world, &quot;Your Time &quot;.</h1>
         <p className="text-center">Workfast.ai is designed and developed to save your time by bringing in
       Focus and Productivity.</p>
       <button className=" border my-1 p-2 sm:my-2 items-center border-yellow-400 rounded-md text-black bg-yellow-400 sm:px-4 sm:py-2 mx-auto font-semibold">Book a Demo</button>
@@ -238,7 +238,7 @@ export default function Home() {
 
       <div className="mt-20 flex  flex-col justify-center items-center tiny:mx-2 sm:mx-5 md:mx-10 lg:mx-20 space-x-3">
         
-        <h1 className="text-center text-4xl font-bold mx-20"> Meet Your Team's Expectations to Foster <br/>A Better Work Culture</h1>
+        <h1 className="text-center text-4xl font-bold mx-20"> Meet Your Team&#39;s Expectations to Foster <br/>A Better Work Culture</h1>
 
         <div className=" flex-1 mt-4 sm:mt-8 md:mt-15 lg:mt-20 grid md:grid-cols-1 gap-x-7 gap-y-4 p-4 xl:grid-cols-3 lg:grid-cols-2">
       <div className="w-full border border-red-600 rounded-3xl p-2 mb-4 ">

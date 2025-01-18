@@ -42,7 +42,7 @@ const Footer = () => {
   <div className="flex flex-col space-y-2">
     <h1 className="text-xs font-semibold">Blog</h1>
    
-    <p className="text-xs text-gray-500">Beginner's Guide to Product Management</p>
+    <p className="text-xs text-gray-500">Beginner&#39;s Guide to Product Management</p>
     <p className="text-xs text-gray-500">Breaking Barriers in Communication and Collaboration</p>
     <p className="text-xs text-gray-500">Top 7 ways Workfast.ai can Revolutionise your Project Management</p>
     <p className="text-xs text-gray-500">
